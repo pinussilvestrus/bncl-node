@@ -27,6 +27,7 @@ return Bncl.parseBncl(bnclString).then(res => {
 
 output:
 
+
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <definitions id="definitions_4e502235-2722-44ac-bf4a-01422aa82ca2" targetNamespace="http://camunda.org/examples" xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL">
