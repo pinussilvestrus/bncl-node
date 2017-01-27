@@ -1,5 +1,5 @@
 # bncl-node
-Node Module for the (bpmn natural creation language)[https://github.com/pinussilvestrus/bncl]
+Node Module for the [bpmn natural creation language](https://github.com/pinussilvestrus/bncl)
 
 ![Travis Status](https://travis-ci.org/pinussilvestrus/bncl-node.svg?branch=master)
 
