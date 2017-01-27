@@ -1,0 +1,32 @@
+{
+  "name": "bncl-node",
+  "version": "1.0.0",
+  "description": "Node Module for the bpmn natural creation language",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinussilvestrus/bncl-node.git"
+  },
+  "keywords": [
+    "bncl",
+    "bpmn"
+  ],
+  "author": "pinussilvestrus",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pinussilvestrus/bncl-node/issues"
+  },
+  "homepage": "https://github.com/pinussilvestrus/bncl-node#readme",
+  "dependencies": {
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "winston": "^2.3.0"
+  }
+}
