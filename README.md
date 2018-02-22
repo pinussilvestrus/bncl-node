@@ -1,9 +1,7 @@
 # bncl-node
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/pinussilvestrus/bncl-node.svg)](https://greenkeeper.io/)
 Node Module for the [bpmn natural creation language](https://github.com/pinussilvestrus/bncl)
 
-![Travis Status](https://travis-ci.org/pinussilvestrus/bncl-node.svg?branch=master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/pinussilvestrus/bncl-node.svg)](https://greenkeeper.io/) ![Travis Status](https://travis-ci.org/pinussilvestrus/bncl-node.svg?branch=master)
 
 # Requirements
 
