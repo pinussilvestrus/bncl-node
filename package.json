@@ -1,6 +1,6 @@
 {
   "name": "bncl-node",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Node Module for the bpmn natural creation language",
   "main": "lib/index.js",
   "scripts": {
