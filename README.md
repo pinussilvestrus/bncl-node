@@ -14,7 +14,7 @@ Node.js module for the [bpmn natural creation language](https://github.com/pinus
 ## Usage
 
 ```js
-const Bncl  = require('../lib');
+const Bncl = require('bncl-node');
 
 // given a valid bncl statement
 var bnclString = "lets create a process with a startevent signed s1 with a endevent signed e1 with a sequenceflow comesfrom s1 goesto e1";
