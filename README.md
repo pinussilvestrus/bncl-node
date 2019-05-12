@@ -21,8 +21,8 @@ var bnclString = "lets create a process with a startevent signed s1 with a endev
 
 // use this to convert bncl to bpmn
 return Bncl.parseBncl(bnclString).then(res => {
-      console.log(res);
-    });
+  console.log(res);
+});
 ```
 
 output:
