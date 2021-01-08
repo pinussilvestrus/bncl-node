@@ -1,7 +1,7 @@
 # bncl-node
 Node.js module for the [bpmn natural creation language](https://github.com/pinussilvestrus/bncl)
 
-![Build Status](https://github.com/pinussilvestrus/bncl-node/workflows/run-tests/badge.svg)
+![Build Status](https://github.com/pinussilvestrus/bncl-node/workflows/ci/badge.svg)
 
 # Requirements
 
